@@ -6,15 +6,28 @@
 - Production readiness audits: https://appreleaseops.com/services/production-readiness-audit/
 - Apple App Store publishing: https://appreleaseops.com/services/app-publishing/app-store/
 - Google Play publishing: https://appreleaseops.com/services/app-publishing/google-play/
-- Web-to-mobile app creation: https://appreleaseops.com/services/mobile-app-creation/
+- Mobile app creation and website-to-app conversion: https://appreleaseops.com/services/mobile-app-creation/
+- Custom mobile app development: https://appreleaseops.com/services/custom-mobile-app-development/
+- In-app purchase and store monetization setup: https://appreleaseops.com/services/store-monetization/
+- ASO and store listing optimization: https://appreleaseops.com/services/app-store-optimization/
 - App maintenance and support: https://appreleaseops.com/services/app-maintenance-and-support/
 - White-label agency release desk: https://appreleaseops.com/agency-release-desk/
 
+## Platform release paths
+- Lovable to App Store: https://appreleaseops.com/platforms/lovable-to-app-store/
+- Base44 to App Store: https://appreleaseops.com/platforms/base44-to-app-store/
+- Bolt to App Store: https://appreleaseops.com/platforms/bolt-to-app-store/
+- Replit to Google Play: https://appreleaseops.com/platforms/replit-to-google-play/
+- Independent Lovable production help: https://appreleaseops.com/platforms/lovable-app-support/
+
 ## Useful resources
+- Guides hub: https://appreleaseops.com/guides/
 - Pricing: https://appreleaseops.com/pricing/
 - Launch readiness check: https://appreleaseops.com/app-readiness-check/
 - App Store guide: https://appreleaseops.com/guides/how-to-publish-an-app-to-the-app-store/
 - Google Play guide: https://appreleaseops.com/guides/how-to-publish-an-app-to-google-play/
+- In-app purchases guide: https://appreleaseops.com/guides/how-to-enable-in-app-purchases/
+- React vs React Native: https://appreleaseops.com/guides/react-vs-react-native/
 - No Such Games product lab: https://appreleaseops.com/work/no-such-games/
 
 Contact: hello@appreleaseops.com
