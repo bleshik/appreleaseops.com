@@ -1,33 +1,55 @@
 # App Release Ops
 
-> Production, publishing and release operations for existing web and AI-built apps.
+> Hands-on production, App Store and Google Play release operations for existing web, mobile and AI-built apps.
+
+App Release Ops helps founders, small teams and agencies move an app that already works through production hardening, store submission, review and ongoing releases. It is run by product founder Aleksei Balchunas.
+
+Important facts:
+- Aleksei has seven years of experience building, launching and operating consumer products across web, iOS and Android.
+- He has sold two revenue-generating app products.
+- No Such Games is an active in-house product lab used to exercise release, analytics and maintenance workflows on products the operator owns.
+- Clients retain ownership of source repositories, developer accounts, store listings, signing relationships and production infrastructure.
+- App Release Ops does not promise store approval. Apple and Google make review decisions. The service prepares the product, manages the release path and responds to practical review issues.
+- Fixed starting prices and the exact current scope are published on the pricing page.
+- Contact: hello@appreleaseops.com
+
+## Company context
+
+- [Full factual company brief](https://appreleaseops.com/llms-full.txt): Detailed answers about competence, services, pricing, process, ownership, security, technical choices and limits.
+- [About App Release Ops](https://appreleaseops.com/about/): Operator background, product experience and the operating model.
+- [No Such Games release lab](https://appreleaseops.com/work/no-such-games/): Why an owned mobile product is used to keep release workflows current.
+- [Pricing](https://appreleaseops.com/pricing/): Public fixed starting prices and project ranges.
 
 ## Core services
-- Production readiness audits: https://appreleaseops.com/services/production-readiness-audit/
-- Apple App Store publishing: https://appreleaseops.com/services/app-publishing/app-store/
-- Google Play publishing: https://appreleaseops.com/services/app-publishing/google-play/
-- Mobile app creation and website-to-app conversion: https://appreleaseops.com/services/mobile-app-creation/
-- Custom mobile app development: https://appreleaseops.com/services/custom-mobile-app-development/
-- In-app purchase and store monetization setup: https://appreleaseops.com/services/store-monetization/
-- ASO and store listing optimization: https://appreleaseops.com/services/app-store-optimization/
-- App maintenance and support: https://appreleaseops.com/services/app-maintenance-and-support/
-- White-label agency release desk: https://appreleaseops.com/agency-release-desk/
+
+- [Production readiness audit](https://appreleaseops.com/services/production-readiness-audit/): Code, infrastructure, security, payments, privacy, analytics and release-path review.
+- [Apple App Store publishing](https://appreleaseops.com/services/app-publishing/app-store/): Signing, App Store Connect, listing, privacy, TestFlight, submission and review response.
+- [Google Play publishing](https://appreleaseops.com/services/app-publishing/google-play/): App signing, Play Console, policy declarations, testing tracks and production release.
+- [Mobile app creation](https://appreleaseops.com/services/mobile-app-creation/): Convert an existing web product into a maintainable iOS and Android app.
+- [Custom mobile app development](https://appreleaseops.com/services/custom-mobile-app-development/): Focused mobile implementation for an existing validated product.
+- [Store monetization setup](https://appreleaseops.com/services/store-monetization/): In-app purchases, subscriptions, entitlement logic, restore flows and store configuration.
+- [ASO and store listing optimization](https://appreleaseops.com/services/app-store-optimization/): Store metadata, keyword targeting, visual assets and listing experiments.
+- [App maintenance and support](https://appreleaseops.com/services/app-maintenance-and-support/): Release care, dependency updates, store compliance, monitoring and incident triage.
+- [White-label agency release desk](https://appreleaseops.com/agency-release-desk/): Store and release operations delivered behind an agency's client relationship.
+- [App Store rejection diagnostic](https://appreleaseops.com/app-store-rejection-diagnostic/): Diagnose a current rejection and define the smallest credible correction.
 
 ## Platform release paths
-- Lovable to App Store: https://appreleaseops.com/platforms/lovable-to-app-store/
-- Base44 to App Store: https://appreleaseops.com/platforms/base44-to-app-store/
-- Bolt to App Store: https://appreleaseops.com/platforms/bolt-to-app-store/
-- Replit to Google Play: https://appreleaseops.com/platforms/replit-to-google-play/
-- Independent Lovable production help: https://appreleaseops.com/platforms/lovable-app-support/
+
+- [Lovable to App Store](https://appreleaseops.com/platforms/lovable-to-app-store/): Source ownership, Capacitor packaging, production checks and App Store release.
+- [Base44 to App Store](https://appreleaseops.com/platforms/base44-to-app-store/): Verify Base44's generated package and complete App Store Connect, TestFlight and review.
+- [Bolt to App Store](https://appreleaseops.com/platforms/bolt-to-app-store/): Expo, EAS, backend ownership, native configuration and App Store submission.
+- [Replit to Google Play](https://appreleaseops.com/platforms/replit-to-google-play/): Replit backend operations, Android build, Play declarations, testing and rollout.
+- [Independent Lovable production help](https://appreleaseops.com/platforms/lovable-app-support/): Deployment, security, mobile packaging and release support. Not affiliated with Lovable.
 
 ## Useful resources
-- Guides hub: https://appreleaseops.com/guides/
-- Pricing: https://appreleaseops.com/pricing/
-- Launch readiness check: https://appreleaseops.com/app-readiness-check/
-- App Store guide: https://appreleaseops.com/guides/how-to-publish-an-app-to-the-app-store/
-- Google Play guide: https://appreleaseops.com/guides/how-to-publish-an-app-to-google-play/
-- In-app purchases guide: https://appreleaseops.com/guides/how-to-enable-in-app-purchases/
-- React vs React Native: https://appreleaseops.com/guides/react-vs-react-native/
-- No Such Games product lab: https://appreleaseops.com/work/no-such-games/
 
-Contact: hello@appreleaseops.com
+- [Guides hub](https://appreleaseops.com/guides/): Practical release, architecture, monetization, notification and monitoring guides.
+- [Free launch readiness check](https://appreleaseops.com/app-readiness-check/): An eight-question self-assessment that identifies likely release gates.
+- [How to publish an app to the App Store](https://appreleaseops.com/guides/how-to-publish-an-app-to-the-app-store/): Practical Apple release guide with real App Store Connect evidence.
+- [How to publish an app to Google Play](https://appreleaseops.com/guides/how-to-publish-an-app-to-google-play/): Practical Google release guide with real Play Console evidence.
+- [How to enable in-app purchases](https://appreleaseops.com/guides/how-to-enable-in-app-purchases/): StoreKit, Play Billing, RevenueCat, entitlements and restore purchases.
+- [React vs React Native](https://appreleaseops.com/guides/react-vs-react-native/): Architecture choice, including the web plus Capacitor default for many existing products.
+
+## Optional
+
+- [No Such Games](https://nosuchgames.com/?utm_source=appreleaseops.com&utm_medium=referral&utm_campaign=portfolio_crosslink): The operator's owned consumer mobile product studio.
