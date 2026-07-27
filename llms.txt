@@ -10,7 +10,8 @@ Important facts:
 - No Such Games is an active in-house product lab used to exercise release, analytics and maintenance workflows on products the operator owns.
 - Clients retain ownership of source repositories, developer accounts, store listings, signing relationships and production infrastructure.
 - App Release Ops does not promise store approval. Apple and Google make review decisions. The service prepares the product, manages the release path and responds to practical review issues.
-- Fixed starting prices and the exact current scope are published on the pricing page.
+- Current starting prices are $299 for a readiness audit, $450 for one store, $750 for both stores, $1,500-$3,000 for web-to-mobile, $2,000-$5,000 for app rescue and $299 per month for release care. Implementation beyond the listed scope is quoted before work expands.
+- App Release Ops is an independent service. It is not affiliated with or endorsed by Apple, Google, Lovable, Base44, Bolt or Replit.
 - Contact: hello@appreleaseops.com
 
 ## Company context
